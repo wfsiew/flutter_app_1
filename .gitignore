@@ -3,6 +3,10 @@
 *.log
 *.pyc
 *.swp
+*.apk
+*.idsig
+*.bat
+*.keystore
 .DS_Store
 .atom/
 .buildlog/
