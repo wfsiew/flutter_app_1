@@ -251,9 +251,7 @@ class _HomeState extends State<Home> {
         systemOverlayStyle: const SystemUiOverlayStyle(statusBarBrightness: Brightness.light, statusBarIconBrightness: Brightness.dark, statusBarColor: kBgColor1),
         toolbarHeight: kAppToolbarHeight,
         automaticallyImplyLeading: false,
-        leadingWidth: 100.0,
         backgroundColor: kBgColor1,
-        leading: const BackBtn(color: kTextColor1),
         centerTitle: true,
         title: Text(
           'Home',
